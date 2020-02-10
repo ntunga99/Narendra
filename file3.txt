@@ -1,2 +1,6 @@
 This is third file
+
 Some lines has been added
+
+This file has been updated
+
